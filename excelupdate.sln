@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29318.209
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "excelupdate", "excelupdate\excelupdate.csproj", "{1FB72A10-C951-4A97-A36A-117726C2D26B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6DB01088-4C55-4CBE-BA1F-E8572CF55B2C}"
+	ProjectSection(SolutionItems) = preProject
+		excelupdate\bin\Debug\excelupdate.cfg = excelupdate\bin\Debug\excelupdate.cfg
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FB72A10-C951-4A97-A36A-117726C2D26B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FB72A10-C951-4A97-A36A-117726C2D26B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FB72A10-C951-4A97-A36A-117726C2D26B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FB72A10-C951-4A97-A36A-117726C2D26B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6E43FE1-1FC7-485F-9DB9-762EDE855FF7}
+	EndGlobalSection
+EndGlobal
